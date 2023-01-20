@@ -4,3 +4,9 @@
 
 layout: home
 ---
+
+
+<video controls loop autoplay loop>  
+  <source src="media/furry.mp4" type="video/mp4">  
+  Your browser does not support the video tag.  
+</video>
