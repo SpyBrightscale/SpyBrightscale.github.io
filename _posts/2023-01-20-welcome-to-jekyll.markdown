@@ -1,25 +1,21 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "I am the lizard king! 🦖"
 date:   2023-01-20 23:12:27 +0100
 categories: jekyll update
+
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Hello! Roar!
 
-Jekyll also offers powerful support for code snippets:
+Welcome on my first blog! 
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+I´m Spy a very wild, playful, gay dinosaur! 🦖
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+I am a 3D artist, developer, game developer and so much more! >;3
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+This is my first post!~
+
+<img src="{{ site.baseurl }}/media/Draw_me_like your_zard.PNG" title="" alt="dadw" width="282">
+
+Thanks for visiting and have a powerful day! 🌋
