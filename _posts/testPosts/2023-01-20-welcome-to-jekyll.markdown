@@ -3,7 +3,7 @@ layout: post
 title:  "I am the lizard king! 🦖"
 date:   2023-01-20 23:12:27 +0100
 categories: jekyll update
-
+author: "Spy Brightscale"
 ---
 
 Hello! Roar!
