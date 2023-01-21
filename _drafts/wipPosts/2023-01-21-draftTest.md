@@ -7,5 +7,3 @@ author: "Spy Brightscale"
 ---
 
 SPYLICIOUS!~
-
-
