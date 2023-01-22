@@ -10,6 +10,6 @@ Godot game testing:
 
 <iframe src="{{site.baseurl}}/games/platformer_level/index.html" title="description" width="600" height="400"> </iframe>
 
-<p> Walk around using "WASD" and hover the mouse on the canvas! 
+<p> Walk around using "WASD", jump with "Spacebar" and hover the mouse on the canvas! 
 Sometimes it catches your mouse, sometimes not, I dunno why! Press Escape 
 to release your mouse if caught!</p>
