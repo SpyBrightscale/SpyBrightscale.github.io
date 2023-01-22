@@ -33,6 +33,11 @@ GEM
       sass (~> 3.4)
     jekyll-seo-tag (2.8.0)
       jekyll (>= 3.8, < 5.0)
+    jekyll-theme-ethereal (0.3.1)
+      jekyll (~> 3.8)
+    jekyll-theme-kagami (0.2.0)
+    jekyll-theme-pirati (8.4.7)
+      jekyll (~> 3.6)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     kramdown (2.4.0)
@@ -74,6 +79,9 @@ DEPENDENCIES
   http_parser.rb (~> 0.6.0)
   jekyll (~> 3.9.0)
   jekyll-feed (~> 0.6)
+  jekyll-theme-ethereal
+  jekyll-theme-kagami
+  jekyll-theme-pirati
   kramdown-parser-gfm
   minima (~> 2.0)
   tzinfo (~> 1.2)
