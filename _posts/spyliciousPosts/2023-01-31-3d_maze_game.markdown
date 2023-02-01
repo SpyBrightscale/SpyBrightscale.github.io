@@ -1,0 +1,15 @@
+---
+layout: page
+title:  "3D Maze Game!🎮"
+date:   2023-01-31 23:12:27 +0100
+categories: jekyll update
+
+---
+
+Ready for a challenge? Try this crazy 3D maze that will twist your brain:
+
+<iframe src="{{site.baseurl}}/games/3d_maze/index.html" title="description" width="1024" height="600"> </iframe>
+
+<p> Walk around using "WASD", jump with "Spacebar", sprint with "shift", quit with "Escape" and look around using your mouse! Press "Enter" to recatch your mouse pointer!</p>
+
+<p> You made it? Seriously that was not easy! Congrats! Roar! 🦖 >;3</p>
